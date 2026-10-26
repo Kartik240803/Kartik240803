@@ -1,55 +1,30 @@
 # Kartik Patel
-Cloud & Site Reliability Engineer  
-Ahmedabad, India  
 
----
+**Cloud & Site Reliability Engineer** · Ahmedabad, India
 
-## About
+Cloud/IT Operations Engineer (SE-II) at Parkar Digital. I build observable systems, automate infrastructure and apply AI to incident response.
 
-Site Reliability–focused Cloud Engineer working across AWS and Azure environments.
+## Highlights
 
-I design observable systems, automate infrastructure, and reduce operational toil.  
-Strong focus on reliability engineering, incident response, and measurable system improvement.
+- Technical lead and architect of [AIONIQ](https://aioniq.si), a self-hosted observability and AI governance platform deployed across 8+ organizations
+- Built Vera, an agentic AI RCA system that finds root cause in 6–10 minutes, down from several hours
+- Cut incident detection from ~4 hours to under 15 minutes across 1,500+ servers, applications and services
+- Saved 15–20 engineering hours/week by automating provisioning with Terraform and Python
+- Cut a client's monthly cloud spend ~13% with OptScale on Kubernetes
+- Co-founder of [CloudFordge](https://cloudfordge.com), free cloud-certification practice used by ~500 learners
 
----
+## Stack
 
-## Expertise
+**Cloud:** AWS · Azure · Proxmox  
+**IaC & CI/CD:** Terraform · Ansible · Python · Bash · GitHub Actions · Docker · Kubernetes  
+**Observability:** Zabbix · Grafana · Datadog · CloudWatch · Azure Monitor · OpenLIT  
+**AI / AIOps:** Agentic AI · MCP · RAG · Qdrant
 
-### Cloud & Infrastructure
-AWS • Azure • Linux • Proxmox • Terraform  
+## Certifications · [verify on Credly](https://www.credly.com/users/kartik-patel.6335d934)
 
-### Reliability & Observability
-Zabbix • Grafana • CloudWatch • Azure Monitor  
-SLO / SLI Design • Incident Runbooks • MTTR Reduction  
-
-### Automation & DevOps
-Python • Bash • Docker • Ansible • CI/CD  
-
-### Security
-IAM • Linux Hardening • Privileged Access Control  
-
----
-
-## Selected Impact
-
-- Reduced MTTR by 40% through structured observability  
-- Eliminated 15–20 hrs/week of manual ops via automation  
-- Cut investigation effort by 90% using auto-diagnostics  
-- Reduced unplanned downtime by 35% with defined SLOs & runbooks  
-
----
-
-## Certifications
-
-AWS Solutions Architect – Associate  
-Azure Administrator  
-Databricks Data Engineer (Associate & Professional)  
-
----
+- **AWS:** Solutions Architect – Associate · CloudOps Engineer – Associate · Developer – Associate · AI Practitioner · Cloud Practitioner
+- **Databricks:** Data Engineer Associate · Data Engineer Professional
 
 ## Contact
 
-Portfolio: https://kartik-patel.com  
-Email: contact@kartik-patel.com  
-GitHub: https://github.com/Kartik240803  
-LinkedIn: https://linkedin.com/in/kartik2408  
+[kartik-patel.com](https://kartik-patel.com) · [LinkedIn](https://linkedin.com/in/kartik2408) · patelkartik625@gmail.com
